@@ -1,6 +1,3 @@
-Here is a suggested `README.md` file for the **Quantum Connectome Characterization with BCI Data and Personal Omics Data** project:
-
-```markdown
 # Quantum Connectome Characterization
 
 This repository focuses on the characterization of quantum connectomes using data collected from Brain-Computer Interfaces (BCI) and Personal Omics data. The project integrates advanced computational models to simulate and analyze neural networks through the lens of quantum mechanics and graph theory.
@@ -145,6 +142,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ### Contact
 Developed by Dibakar Sigdel at Mindverse Computing LLC. For queries, contact: [dibakar@mindversecomputing.com](mailto:dibakar@mindversecomputing.com).
-```
-
-This `README.md` provides a clear explanation of the project, its features, workflow, and usage, making it easy for users to understand and interact with the repository. Let me know if you need additional refinements!
